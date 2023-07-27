@@ -104,9 +104,9 @@ http://minio-02.yourdomain.com:9001
 @minio-01
 ```shell
 #Download the latest MinIO client
-wget https://dl.min.io/client/mc/release/linux-amd64/mcli_20220611211036.0.0_amd64.deb
+wget https://dl.min.io/client/mc/release/linux-amd64/mcli_20230721204427.0.0_amd64.deb
 #Install
-sudo dpkg -i mcli_20220611211036.0.0_amd64.deb
+sudo dpkg -i mcli_20230721204427.0.0_amd64.deb
 
 #Enable autocompletion for your shell
 mcli --autocompletion
