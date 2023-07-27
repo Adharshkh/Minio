@@ -43,9 +43,9 @@ sudo apt update
 #Update the system
 sudo apt upgrade
 #Download the MinIO server’s latest
-wget https://dl.min.io/server/minio/release/linux-amd64/minio_20220611195532.0.0_amd64.deb
+wget https://dl.min.io/server/minio/release/linux-amd64/minio_20230721211244.0.0_amd64.deb
 #Install the downloaded file
-sudo dpkg -i minio_20220611195532.0.0_amd64.deb
+sudo dpkg -i minio_20230721211244.0.0_amd64.deb
 ```
 ## Step 2 — Creating the MinIO User, Group, Data Directory, and Environment File   
 @minio-01,02
